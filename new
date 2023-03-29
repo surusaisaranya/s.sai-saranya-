@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main(void) 
+{ 
+	int new = 5;
+	printf("%d", new); 
+}
+
+*/
